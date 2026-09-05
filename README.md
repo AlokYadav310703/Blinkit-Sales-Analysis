@@ -268,5 +268,8 @@ Blinkit-Sales-Analysis/
 2. Data sources are documented for reproducibility
 3. DAX formulas are available for customization
 
+<img src="images/Screenshot 2026-04-10 150223.png" alt="Dashboard" width="700">
+<img src="images/Screenshot 2026-04-10 150238.png" alt="Dashboard" width="700">
+
 ---
 
