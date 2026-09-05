@@ -177,28 +177,21 @@ Regular Fat:       36% ($423K)
 ```
 Blinkit-Sales-Analysis/
 
-├── data/
-│   ├── raw_sales_data.xlsx
-│   ├── outlet_master.xlsx
-│   └── item_catalog.xlsx
+├── data/processed
+│   ├── BlinkIT Grocery Data.xlsx
 │
 ├── dashboard/
-│   ├── Sales_Overview.pbix
-│   ├── Outlet_Performance.pbix
-│   ├── Geographic_Analysis.pbix
-│   └── Category_Analysis.pbix
-│
+│   ├── Blinkit.pbix
+│   
 ├── images/
 │   ├── Dashboard_Overview.png
-│   ├── Outlet_Comparison.png
 │   └── Insights_Summary.png
 │
 ├── presentation/
 │   └── Executive_Summary.pptx
 │
 ├── README.md (this file)
-├── requirements.txt
-└── METHODOLOGY.md
+└── requirements.txt
 ```
 
 ---
