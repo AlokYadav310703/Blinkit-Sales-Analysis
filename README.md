@@ -65,3 +65,6 @@ Blinkit-Sales-Analysis/
 - 📁 [presentation](./presentation/)
 - 📄 [README.md](./README.md)
 - ⚙️ [requirements.txt](./requirements.txt)
+
+<img src="images/Screenshot 2026-04-10 150223.png" alt="Dashboard" width="700">
+<img src="images/Screenshot 2026-04-10 150238.png" alt="Dashboard" width="700">
