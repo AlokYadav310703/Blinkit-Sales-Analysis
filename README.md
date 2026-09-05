@@ -263,11 +263,10 @@ Blinkit-Sales-Analysis/
 
 ### For Data Analysis:
 1. Open `data/` folder to access cleaned datasets
-2. Review `METHODOLOGY.md` for analysis approach
-3. Check Power BI files in `dashboard/` for visualizations
+2. Check Power BI files in `dashboard/` for visualizations
 
 ### For Stakeholder Presentation:
-1. Use `presentation/Executive_Summary.pptx` for leadership reviews
+1. Use `presentation/Blinkit Analysis.pptx` for leadership reviews
 2. Reference dashboard images in `images/` folder
 3. Share key insights from this README
 
@@ -278,14 +277,3 @@ Blinkit-Sales-Analysis/
 
 ---
 
-## Key Learnings & Takeaways
-
-- **Data tells a clear story** when properly visualized—outlet type, location, and product category are major drivers
-- **Geographic diversity matters**—Tier 3 cities punch above their weight in revenue generation
-- **Customer preferences are quantifiable**—64% preference for low-fat products is actionable
-- **Concentration risk is real**—65% revenue from one outlet type requires diversification
-- **Real-time dashboards drive faster decisions**—visualization enables operational excellence
----
-
-**Last Updated:** September 2026
-**Status:** Production Ready
